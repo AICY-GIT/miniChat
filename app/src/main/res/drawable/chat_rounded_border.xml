@@ -1,0 +1,14 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Set rounded corners -->
+    <corners android:radius="20dp" />
+
+    <!-- Create a hollow blue border -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/DeepSkyBlue" /> <!-- Blue color -->
+
+    <!-- Transparent background to keep the hollow effect -->
+    <solid android:color="@android:color/transparent" />
+</shape>

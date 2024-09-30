@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "216855265636",
+    "firebase_url": "https://chatn-call-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatn-call",
+    "storage_bucket": "chatn-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216855265636:android:96142d5887a93683ebfa71",
+        "android_client_info": {
+          "package_name": "edu.huflit.callchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB1xDT3qimgA4ZIER2Qb38yOUBFK-AnjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
